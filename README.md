@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kannan P
+# Hi, I'm Kannan P
 
 <h3 align="center">Embedded Software Engineer | C • C++ • Embedded C • STM32 • ARM • Linux</h3>
 
