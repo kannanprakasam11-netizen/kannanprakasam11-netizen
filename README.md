@@ -36,7 +36,7 @@ Engineer kannan = {
 };
 ```
 
-### 💡 What I Do
+###  What I Do
 
 - 🔧 Develop and debug embedded software
 - 🧠 Work with **C, C++ and Embedded C**
@@ -49,7 +49,7 @@ Engineer kannan = {
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 ### Programming Languages
 
@@ -95,7 +95,7 @@ Engineer kannan = {
 
 ## 📌 Featured Projects
 
-### 🔥 Embedded & IoT Systems
+###  Embedded & IoT Systems
 - Firmware development and debugging for microcontroller-based products
 - Sensor interfacing and peripheral communication
 - UART/SPI/I2C/CAN communication
@@ -108,12 +108,12 @@ Engineer kannan = {
 - NVR/video storage related troubleshooting
 - Network packet analysis using Wireshark
 
-### 🚗 Car Reverse Parking Alert System
+###  Car Reverse Parking Alert System
 - Arduino-based embedded project
 - Distance sensing and alert generation
 - Real-time embedded control
 
-### 🌡️ Neural Network Based Boiler Temperature Control
+###  Neural Network Based Boiler Temperature Control
 - PIC microcontroller based project
 - Temperature and level sensor interfacing
 - Pump and LCD control
@@ -121,7 +121,7 @@ Engineer kannan = {
 
 ---
 
-## 📈 Currently Learning
+##  Currently Learning
 
 ```text
 C Programming        ████████████████████  Advanced
@@ -135,7 +135,7 @@ Python                 ████████████░░░░░░░
 
 ---
 
-## 🎯 Career Focus
+##  Career Focus
 
 > **Embedded Software → Embedded Linux → ARM/STM32 → System-Level Development**
 
@@ -152,7 +152,7 @@ I am continuously improving my skills in:
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -161,7 +161,7 @@ I am continuously improving my skills in:
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/">
